@@ -1,0 +1,16 @@
+{
+  "name": "my-websocket-project",
+  "version": "1.0.0",
+  "description": "A WebSocket project with a Node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.0.0"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
